@@ -1,3 +1,8 @@
+# Digital VLSI SOC Design and Planning
+
+#### The Digital VLSI SoC Design and Planning process begins with Chip Modelling (O1), where a C model is created from the design specifications and verified using a C-language testbench. This is followed by the RTL Architect Stage (O2), which produces a "soft copy" of the hardware using RTL languages like Verilog. The design then undergoes ASIC Synthesis, converting the RTL into a Gate Level Netlist while integrating various IPs. The SoC Integration Phase (O3) involves physical design steps such as floorplanning, placement, and routing to produce a GDSII file. Finally, the design is verified with DRC/LVS checks before being fabricated, resulting in the final chip (O4), which should be functionally equivalent to the initial models and architectures. A design that has been successfully manufactured and tested on a real chip is referred to as a "silicon-proven" design.
+---
+
 # System Information and Tool Installation Guide
 
 #### This guide provides instructions to install the essential EDA tools required for the RISC-V Chip Tapeout project.
