@@ -79,27 +79,27 @@ sudo make install
 
 ### 1. Yosys 
 <p align="center">
-  <img src="Week_0/img/yosys_setup.png" alt="Description of image" width="600"/>
+  <img src="img/yosys_setup.png" alt="Description of image" width="600"/>
 </p>
 
 ### 2. Iverilog
 
 <p align="center">
-  <img src="Week_0/img/iverilog_setup.png" alt="Description of image" width="600"/>
+  <img src="img/iverilog_setup.png" alt="Description of image" width="600"/>
 </p>
 
 ### 3. GTKWave
 
 <p align="center">
-  <img src="Week_0/img/gtkwave_setup.png" alt="Description of image" width="600"/>
+  <img src="img/gtkwave_setup.png" alt="Description of image" width="600"/>
 </p>
 
 ### 4. Ngspice
 <p align="center">
-  <img src="Week_0/img/ngspice_setup.png" alt="Description of image" width="600"/>
+  <img src="img/ngspice_setup.png" alt="Description of image" width="600"/>
 </p>
 
 ### 5. Magic VLSI Layout Tool
 <p align="center">
-  <img src="Week_0/img/magic_setup.png" alt="Description of image" width="600"/>
+  <img src="img/magic_setup.png" alt="Description of image" width="600"/>
 </p>
